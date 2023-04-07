@@ -1,7 +1,8 @@
 # STYLE-Token-Smart-Contract
 This is the source code for STYLE Token based on ERC777 
 
-'''
+```
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 
@@ -19,4 +20,5 @@ contract styleToken is ERC777 {
     }
 }
 
-'''
+```
+
